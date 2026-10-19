@@ -1,0 +1,26 @@
+# Ortam ve derleme çıktıları
+.venv/
+venv/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Gizli anahtarlar ve kişisel veri (gerçek veri %LOCALAPPDATA%\YDSKelimeKocu altında)
+.env
+data_dev/
+*.db
+*.db-wal
+*.db-shm
+
+# Telif: "60 Günde Ezberbozan Kelimeler" kitabından türetilen içerik yalnızca yerelde kalır.
+# Bunlar yoksa uygulama seed/pool_public.json'u (akıllı havuz) kullanır.
+seed/pool.json
+seed/ezberbozan.json
+tools/ezberbozan/
+
+# Ara üretim dosyaları (sonuçları content.jsonl / osym_examples.json içinde)
+seed/gen_input/
+seed/gen_output/
+tools/osym_work/

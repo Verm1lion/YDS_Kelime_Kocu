@@ -1,0 +1,17 @@
+# Uygulama (Python 3.10, Windows)
+fastapi==0.142.2
+uvicorn==0.54.0
+fsrs==6.3.2
+numpy==2.2.6
+pystray==0.19.5
+pillow==12.3.0
+pywin32==312
+qrcode==8.2
+httpx==0.28.1
+
+# Araçlar, test ve derleme
+openpyxl==3.1.5
+wordfreq==3.1.1
+pytest==9.1.1
+playwright==1.63.0
+pyinstaller==6.22.3

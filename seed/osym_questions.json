@@ -1,0 +1,410 @@
+[
+ {
+  "session": "2021/1",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "The most basic path to computer literacy is to ---- competence in using computers to perform personal or vocational tasks.",
+  "options": [
+   "exclude",
+   "relieve",
+   "deteriorate",
+   "restrict",
+   "attain"
+  ],
+  "answer": "E",
+  "answer_text": "attain",
+  "note": "attain competence = yeterlilik kazanmak."
+ },
+ {
+  "session": "2021/1",
+  "no": 12,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "---- certain types of fungi have been used throughout history for a variety of beneficial purposes, others have been found to contain dangerous toxins that are poisonous to humans.",
+  "options": [
+   "Once",
+   "Although",
+   "Since",
+   "Provided that",
+   "Only when"
+  ],
+  "answer": "B",
+  "answer_text": "Although",
+  "note": "Although = -mesine rağmen. İpucu: \"others have been found to contain dangerous toxins\" zıt durum."
+ },
+ {
+  "session": "2021/2",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "When neurological issues like aphasia and dyslexia arise, they often ---- themselves in the things we say and how we say them.",
+  "options": [
+   "alienate",
+   "improve",
+   "manifest",
+   "diminish",
+   "receive"
+  ],
+  "answer": "C",
+  "answer_text": "manifest",
+  "note": "manifest themselves = kendini göstermek, ortaya çıkmak."
+ },
+ {
+  "session": "2021/2",
+  "no": 12,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "---- social media has become widely integrated into everyday life, there is a growing interest in understanding its impact and the norms of online conduct.",
+  "options": [
+   "Supposing that",
+   "Although",
+   "Now that",
+   "As much as",
+   "While"
+  ],
+  "answer": "C",
+  "answer_text": "Now that",
+  "note": "Now that = -dığına göre / madem (sebep)."
+ },
+ {
+  "session": "2022/1",
+  "no": 2,
+  "type": "Kelime Bilgisi",
+  "sub": "İsim",
+  "stem": "According to Piaget, an infant’s initial knowledge is limited to innate reflexes and is combined with an ---- to actively use and adapt these reflexes as a result of repeated interactions with objects.",
+  "options": [
+   "assertion",
+   "equivalent",
+   "inclination",
+   "ambiguity",
+   "estimation"
+  ],
+  "answer": "C",
+  "answer_text": "inclination",
+  "note": "an inclination to do sth = bir şeyi yapma eğilimi."
+ },
+ {
+  "session": "2022/1",
+  "no": 14,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "---- even kings and high statesmen have a daily life, when that concept is used in history, it refers to the lives of the ordinary people who became the protagonists of much historiography in the late 20th century.",
+  "options": [
+   "Whether",
+   "Seeing that",
+   "While",
+   "Unless",
+   "Until"
+  ],
+  "answer": "C",
+  "answer_text": "While",
+  "note": "While = -se de / -iken (zıtlık)."
+ },
+ {
+  "session": "2022/2",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "Snoring that is thought to be caused by excessive weight may be ---- by a sensible weight loss and exercise program.",
+  "options": [
+   "released",
+   "exceeded",
+   "curtailed",
+   "ensured",
+   "revived"
+  ],
+  "answer": "C",
+  "answer_text": "curtailed",
+  "note": "Edilgen yapı: may be curtailed = azaltılabilir."
+ },
+ {
+  "session": "2022/2",
+  "no": 16,
+  "type": "Dil Bilgisi",
+  "sub": "Edat / Edat öbeği",
+  "stem": "In many countries today, professions that traditionally were dominated by males, such as law, medicine, and engineering, are becoming more balanced ---- gender.",
+  "options": [
+   "in case of",
+   "in terms of",
+   "as a result of",
+   "as opposed to",
+   "thanks to"
+  ],
+  "answer": "B",
+  "answer_text": "in terms of",
+  "note": "in terms of gender = cinsiyet bakımından."
+ },
+ {
+  "session": "2023/1",
+  "no": 4,
+  "type": "Kelime Bilgisi",
+  "sub": "Zarf",
+  "stem": "Today we take the appearance of dinosaurs for granted, but it has taken centuries of careful study to learn how to ---- read the clues in the fossil record.",
+  "options": [
+   "disputably",
+   "incidentally",
+   "reluctantly",
+   "accurately",
+   "implicitly"
+  ],
+  "answer": "D",
+  "answer_text": "accurately",
+  "note": "read the clues accurately = ipuçlarını doğru okumak."
+ },
+ {
+  "session": "2023/1",
+  "no": 14,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "It is a strange twist of fate that both the Ötzi, an ancient iceman, and Helmut Simon were found dead on the ice ---- Helmut Simon was the man who discovered the Ötzi’s remains in 1991.",
+  "options": [
+   "until",
+   "given that",
+   "only when",
+   "unless",
+   "provided that"
+  ],
+  "answer": "B",
+  "answer_text": "given that",
+  "note": "given that = -dığı göz önüne alınırsa (sebep)."
+ },
+ {
+  "session": "2023/2",
+  "no": 6,
+  "type": "Kelime Bilgisi",
+  "sub": "Phrasal verb",
+  "stem": "The belief that individuals have virtually unlimited potential for growth is particularly attractive to educators seeking to ---- the best that adult learners can achieve.",
+  "options": [
+   "bring out",
+   "call off",
+   "get over",
+   "interfere with",
+   "pass down"
+  ],
+  "answer": "A",
+  "answer_text": "bring out",
+  "note": "bring out the best = en iyisini ortaya çıkarmak."
+ },
+ {
+  "session": "2023/2",
+  "no": 14,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "---- recent droughts and urbanisation have challenged the traditional lifestyle of the Sahara Desert's Tuareg people, many still practice nomadism, with communities still moving locations over the vast spaces.",
+  "options": [
+   "Although",
+   "In case",
+   "Because",
+   "As long as",
+   "Until"
+  ],
+  "answer": "A",
+  "answer_text": "Although",
+  "note": "Although: kuraklığa rağmen pek çoğu hâlâ göçebe."
+ },
+ {
+  "session": "2024/1",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "Psychologists believe friendships ---- many different types of associations, from casual relationships to more intimate, collaborative, and enduring bonds.",
+  "options": [
+   "comprise",
+   "dispel",
+   "constrain",
+   "contend",
+   "allocate"
+  ],
+  "answer": "A",
+  "answer_text": "comprise",
+  "note": "friendships comprise many types = dostluklar birçok türü kapsar."
+ },
+ {
+  "session": "2024/1",
+  "no": 9,
+  "type": "Dil Bilgisi",
+  "sub": "Fiilimsi (to/-ing)",
+  "stem": "The world’s first cities appear ---- in regions where climate and soil allowed the land to provide an abundance of plant and animal life that would be necessary ---- larger populations.",
+  "options": [
+   "to have arisen / to support",
+   "arising / supporting",
+   "to arise / to have supported",
+   "being arisen / to be supported",
+   "having arisen / being supported"
+  ],
+  "answer": "A",
+  "answer_text": "to have arisen / to support",
+  "note": "appear to have arisen (geçmişe dönük görünme) / necessary to support (amaç)."
+ },
+ {
+  "session": "2024/2",
+  "no": 4,
+  "type": "Kelime Bilgisi",
+  "sub": "Zarf",
+  "stem": "The social benefits of technologies are ---- distributed across the United States as there are still rural communities and individuals with disabilities facing out-of-reach costs or lacking access to products that meet their needs.",
+  "options": [
+   "undeniably",
+   "invariably",
+   "unevenly",
+   "irreversibly",
+   "inseparably"
+  ],
+  "answer": "C",
+  "answer_text": "unevenly",
+  "note": "unevenly distributed = eşit olmayan biçimde dağıtılmış. Şıkların hepsi -ly zarf."
+ },
+ {
+  "session": "2024/2",
+  "no": 16,
+  "type": "Dil Bilgisi",
+  "sub": "Edat / Edat öbeği",
+  "stem": "During the early periods in northern China, wheat seems to have been treated as a crop of desperation ---- a culinary delight, and was grown in an attempt to tackle starvation.",
+  "options": [
+   "on the basis of",
+   "by means of",
+   "with reference to",
+   "as a result of",
+   "rather than"
+  ],
+  "answer": "E",
+  "answer_text": "rather than",
+  "note": "rather than = -den ziyade."
+ },
+ {
+  "session": "2025/1",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "Every year, thousands of high school graduates from all over the world compete to enter Harvard University, having ---- hundreds of hours of their time to achieve their dream.",
+  "options": [
+   "sacrificed",
+   "alleviated",
+   "prolonged",
+   "earned",
+   "yielded"
+  ],
+  "answer": "A",
+  "answer_text": "sacrificed",
+  "note": "having sacrificed hundreds of hours = yüzlerce saatini feda etmiş olarak."
+ },
+ {
+  "session": "2025/1",
+  "no": 11,
+  "type": "Dil Bilgisi",
+  "sub": "Edat / Edat öbeği",
+  "stem": "Ready meals labelled ---- phrases like ‘finest’ and ‘best’ are marketed as premium shortcuts ---- a balanced meal, but cooking equivalent dishes from scratch is still a nutritionally better option.",
+  "options": [
+   "about / over",
+   "in / from",
+   "for / on",
+   "through / at",
+   "with / to"
+  ],
+  "answer": "E",
+  "answer_text": "with / to",
+  "note": "labelled with ... / shortcuts to ..."
+ },
+ {
+  "session": "2025/İng",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "Some changes to our nails can be harmless, but some can signal health issues, which is why it is important to know what might ---- medical attention.",
+  "options": [
+   "exclude",
+   "hinder",
+   "conspire",
+   "strive",
+   "warrant"
+  ],
+  "answer": "E",
+  "answer_text": "warrant",
+  "note": "warrant medical attention = tıbbi müdahaleyi gerektirmek."
+ },
+ {
+  "session": "2025/İng",
+  "no": 11,
+  "type": "Dil Bilgisi",
+  "sub": "Edat / Edat öbeği",
+  "stem": "The form and scale of technology-mediated distance language teaching has expanded markedly over the past two decades ---- ongoing innovation providing access to increasingly rich language learning opportunities ---- dispersed populations of learners.",
+  "options": [
+   "towards / between",
+   "into / beyond",
+   "with / for",
+   "from / through",
+   "across / by"
+  ],
+  "answer": "C",
+  "answer_text": "with / for",
+  "note": "with ongoing innovation / opportunities for ... populations."
+ },
+ {
+  "session": "2025/2",
+  "no": 3,
+  "type": "Kelime Bilgisi",
+  "sub": "Sıfat",
+  "stem": "As the technology of digital ecosystems matures, businesses are exploring its transformative potential to solve problems that were previously ----, facilitating real-time monitoring and data collection.",
+  "options": [
+   "indispensable",
+   "insurmountable",
+   "unprofitable",
+   "impermissible",
+   "uncompetitive"
+  ],
+  "answer": "B",
+  "answer_text": "insurmountable",
+  "note": "previously insurmountable problems. Şıkların hepsi olumsuz önekli (in-/un-/im-) sıfat."
+ },
+ {
+  "session": "2025/2",
+  "no": 8,
+  "type": "Dil Bilgisi",
+  "sub": "Modal",
+  "stem": "Archaeologists who have revealed 400,000-year-old ivory objects in Ukraine suggest that these artefacts ---- as cutting tools due to the softness of ivory, but ---- as teaching aids for children at that time.",
+  "options": [
+   "may not be used / would have been used",
+   "should not have been used / could be used",
+   "would not have been used / can be used",
+   "might not be used / had to be used",
+   "could not have been used / may have been used"
+  ],
+  "answer": "E",
+  "answer_text": "could not have been used / may have been used",
+  "note": "could not have been used (kullanılmış olamaz) / may have been used (kullanılmış olabilir)."
+ },
+ {
+  "session": "2026/1",
+  "no": 5,
+  "type": "Kelime Bilgisi",
+  "sub": "Fiil",
+  "stem": "PFAs are long-lasting, difficult-to-breakdown substances used in everything from fire retardants and non-stick pan coatings to pizza boxes and cosmetics, and often known as ‘forever chemicals’, as they ---- in the environment for a long time.",
+  "options": [
+   "accelerate",
+   "assemble",
+   "endure",
+   "recede",
+   "elaborate"
+  ],
+  "answer": "C",
+  "answer_text": "endure",
+  "note": "endure in the environment = çevrede uzun süre kalmak (forever chemicals ipucu)."
+ },
+ {
+  "session": "2026/1",
+  "no": 12,
+  "type": "Dil Bilgisi",
+  "sub": "Bağlaç (zarf cümlesi)",
+  "stem": "---- ground-breaking discoveries in scientific papers are curated to be succinct and organised, the journey to get there is full of surprises, failures, and perseverance with which every scientist can connect.",
+  "options": [
+   "As if",
+   "Since",
+   "In case",
+   "Even though",
+   "As long as"
+  ],
+  "answer": "D",
+  "answer_text": "Even though",
+  "note": "Even though: makaleler düzenli ama süreç sürprizlerle dolu."
+ }
+]
